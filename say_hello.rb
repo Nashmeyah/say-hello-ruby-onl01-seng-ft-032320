@@ -2,3 +2,4 @@
 def say_hello(name)
   puts "Hellp #{name}!"
 end
+say_hello
